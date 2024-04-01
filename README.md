@@ -1,2 +1,1 @@
-# SoftUni-Courses
-Courses from my education @ SoftUni
+# FUND-2024-PROJECT
